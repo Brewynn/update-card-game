@@ -6,4 +6,3 @@ To start a game, the dealer deals two cards to his opponent, then leaves two ope
 
 
 
-![Captura](https://user-images.githubusercontent.com/62323712/101237624-b7291900-36b0-11eb-8a71-620a223745dd.PNG)
